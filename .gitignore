@@ -1,0 +1,12 @@
+# Saídas de compilação do arduino-cli
+build/
+
+# Capturas da câmera (vídeos e quadros gravados pelo ver_camera.py)
+capturas/
+quadros.bin
+*.mp4
+
+# Python e sistema
+__pycache__/
+*.pyc
+.DS_Store
