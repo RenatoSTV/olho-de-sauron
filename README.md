@@ -110,3 +110,7 @@ python3 ferramentas/ver_camera.py capturas/meu_teste
 ## Créditos
 
 A sequência de inicialização da tela em `Arduino_GC9B72.h` vem do componente ESP-IDF `viewesmart/esp_lcd_gc9b72` 1.0.0 (Apache-2.0, © 2023 Espressif Systems, © 2026 VIEWE).
+
+## Licença
+
+[MIT](LICENSE). A tabela de inicialização da tela em `Arduino_GC9B72.h` continua sob a Apache-2.0 original (veja Créditos).
